@@ -1,4 +1,4 @@
-**This is the home of the ISB Student Tech Drive Coders!!! 
+**This is the home of the ISB Student Tech Drive Coders!!! **
 
 
 The discussions here will be moved up to the organization discussio
